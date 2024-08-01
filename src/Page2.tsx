@@ -42,7 +42,7 @@ function Page2() {
           </div>
         </div>
         <p className="p-4 text-sm text-muted-foreground">
-          This Summer I had the opportunity to work on a site for the Performance Engineering team! The functionality of this site relies on pulling documents related to procedures, codes and standards, or other relevant libraries. I worked with Chris to go over the new architecture for the site and develop the necessary functions to build towards this new site! I had the opportunity to work with a variety of new technologies and gained much practical experience!
+          This Summer I had the opportunity to work on a site for the Performance Engineering team! The functionality of this site relies on pulling documents related to procedures, codes and standards, or other relevant libraries. I worked with Chris to go over the new architecture for the site and develop the necessary functions to build towards it! I had the opportunity to work with a variety of new technologies and gained much practical experience!
         </p>
       </div>
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-1 lg:col-span-1">
