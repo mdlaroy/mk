@@ -7,7 +7,7 @@ function Page2() {
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-1 lg:col-span-1">
         <div className="flex items-center gap-4 p-4">
           <Avatar className="w-16 h-16">
-            <AvatarImage src="/placeholder-user.jpg" />
+            <AvatarImage src="/mk/placeholder-user.jpg" />
             <AvatarFallback>JD</AvatarFallback>
           </Avatar>
           <div className="grid gap-1">
@@ -22,7 +22,7 @@ function Page2() {
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-2 lg:col-span-1">
         <div className="flex items-center gap-4 p-4">
           <Avatar className="w-16 h-16">
-            <AvatarImage src="/placeholder-user.jpg" />
+            <AvatarImage src="/mk/placeholder-user.jpg" />
             <AvatarFallback>JS</AvatarFallback>
           </Avatar>
           <div className="grid gap-1">
@@ -48,7 +48,7 @@ function Page2() {
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-1 lg:col-span-1">
         <div className="flex items-center gap-4 p-4">
           <Avatar className="w-16 h-16">
-            <AvatarImage src="/placeholder-user.jpg" />
+            <AvatarImage src="/mk/placeholder-user.jpg" />
             <AvatarFallback>ED</AvatarFallback>
           </Avatar>
           <div className="grid gap-1">
@@ -63,7 +63,7 @@ function Page2() {
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-2 lg:col-span-1">
         <div className="flex items-center gap-4 p-4">
           <Avatar className="w-16 h-16">
-            <AvatarImage src="/placeholder-user.jpg" />
+            <AvatarImage src="/mk/placeholder-user.jpg" />
             <AvatarFallback>DL</AvatarFallback>
           </Avatar>
           <div className="grid gap-1">

@@ -6,7 +6,7 @@ function Page1() {
       {/* Add the image here */}
       <div className="w-full max-w-md mb-8">
       <img
-  src="/millerknolllogo.jpg"
+  src="/mk/millerknolllogo.jpg"
   alt="Megan LaRoy"
   className="w-full max-w-md rounded-full mx-auto"
 />
