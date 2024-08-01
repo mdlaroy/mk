@@ -73,6 +73,7 @@ function Page2() {
         </div>
         <p className="p-4 text-sm text-muted-foreground">
           I was placed on the Omni team and was able to get insight into the world of dealer technology! Working with the team and meeting everyone has been a joy and I am grateful for the time spent with them!
+          Beyond Omni, I also had the opportunity to shadow some of the Scout team's meetings and helped the RPC team with their SharePoint work!
         </p>
       </div>
     </div>

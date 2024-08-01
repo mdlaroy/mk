@@ -18,7 +18,7 @@ import Page3 from "./Page3"
       "Special thank you to Chris, Ron, & Ken for being a sounding board throughout my entire internship. For being patient, for helping me grow, and for being a constant force to support me!",
       "The entire Omni Team who were a joy to work with, learn from, and hear from everyday!",
       "My recruiter Kameelah for being an incredible resource and guide during my experience! She did an incredible job with everyone and I am grateful for her efforts!",
-      "All of my intern cohort for the incredible memories and friendships I've gained over the Summer! Special thanks to my roomate Zoe too who is in this call :)",
+      "All of my intern cohort for the incredible memories and friendships I've gained over the Summer! Special thanks to my roommate Zoe too who is in this call :)",
       "Thank you MillerKnoll!"
     ]
   
