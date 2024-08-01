@@ -24,7 +24,7 @@ function Page1() {
             <h2 className="text-lg font-semibold">About</h2>
             <p className="text-muted-foreground">
               - Senior @ EMU <br></br>
-              - Pursuing BS in CS<br></br>
+              - Pursuing a BS in CS<br></br>
               - VP of WiCS<br></br>
               - Volunteer
             </p>
