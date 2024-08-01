@@ -42,7 +42,7 @@ function Page2() {
           </div>
         </div>
         <p className="p-4 text-sm text-muted-foreground">
-          This Summer I had the opportunity to work with the Omni Team
+          This Summer I had the opportunity to work on a site for the Performance Engineering team! The functionality of this site relies on pulling documents related to procedures, codes and standards, or other relevant libraries. I worked with Chris to go over the new architecture for the site and develop the necessary functions to build towards this new site! I had the opportunity to work with a variety of new technologies and gained much practical experience!
         </p>
       </div>
       <div className="bg-background rounded-lg overflow-hidden shadow-lg col-span-1 sm:col-span-1 lg:col-span-1">
@@ -72,7 +72,7 @@ function Page2() {
           </div>
         </div>
         <p className="p-4 text-sm text-muted-foreground">
-          ff.
+          I was placed on the Omni team and was able to get insight into the world of dealer technology! Working with the team and meeting everyone has been a joy and I am grateful for the time spent with them!
         </p>
       </div>
     </div>

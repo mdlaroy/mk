@@ -2,7 +2,7 @@
 function Page3() {
   return (
     <section className="w-full py-12 md:py-24 lg:py-32">
-      <h2 className="text-3xl font-bold text-center mb-8">Some of What I Did !</h2>
+      <h2 className="text-3xl font-bold text-center mb-8">Some of What I Did!</h2>
       <div className="container px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           <div className="relative overflow-hidden rounded-lg bg-background shadow-lg transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-xl">
@@ -38,7 +38,7 @@ function Page3() {
           </div>
         </div>
         
-        <h2 className="text-3xl font-bold text-center my-12">Some Favorite Moments !</h2>
+        <h2 className="text-3xl font-bold text-center my-12">Some Favorite Moments!</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="relative overflow-hidden rounded-lg bg-background shadow-lg transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-xl">
