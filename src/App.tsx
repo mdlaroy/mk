@@ -19,7 +19,7 @@ import Page3 from "./Page3"
       "The entire Omni Team who were a joy to work with, learn from, and hear from everyday!",
       "My recruiter Kameelah for being an incredible resource and guide during my experience! She did an incredible job with everyone and I am grateful for her efforts!",
       "All of my intern cohort for the incredible memories and friendships I've gained over the Summer! Special thanks to my roomate Zoe too who is in this call :)",
-      "Thank you!"
+      "Thank you MillerKnoll!"
     ]
   
     return (
